@@ -1,0 +1,48 @@
+.youbeli_wrap input[type=text],.youbeli_wrap input[type=number] {
+	width: 400px;
+}
+#product-list img {
+	margin: 0;
+	width: auto;
+	height: auto;
+	max-width: 40px;
+	max-height: 40px;
+	vertical-align: middle;
+}
+.label {
+	display: inline;
+	padding: .2em .6em .3em;
+	font-size: 100%;
+	font-weight: 700;
+	line-height: 1;
+	color: #fff;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+.label-success {
+	background-color: #5cb85c;
+}
+.label-danger {
+	background-color: #d9534f;
+}
+.button-danger {
+	background-color: #dc3232 !important;
+	border-color: #dc3232 !important;
+}
+mark.instock {
+	font-weight: 700;
+	color: #7ad03a;
+	background: transparent none;
+	line-height: 1;
+}
+mark.outofstock {
+	font-weight: 700;
+	color: #a44;
+	background: transparent none;
+	line-height: 1;
+}
+.clickable {
+	cursor: pointer;
+}

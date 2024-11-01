@@ -1,0 +1,4 @@
+#woocommerce-product-data ul.wc-tabs li.youbeli_sync_tab a::before {
+	font-family: Dashicons;
+	content: "\f103";
+}
